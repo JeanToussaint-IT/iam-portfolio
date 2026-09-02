@@ -1,0 +1,6 @@
+EmployeeID,DisplayName,UPN,Department,JobTitle,Manager,Status
+1001,Alex Editor,alex.editor,Post-Production,Editor,jordan.pm,Active
+1002,Sam Colorist,sam.colorist,Post-Production,Colorist,jordan.pm,Active
+1003,Jordan PM,jordan.pm,Post-Production,Project Manager,,Active
+1004,Riley Finance,riley.finance,Finance,Analyst,jordan.pm,Active
+1005,Casey Contractor,casey.contractor,Post-Production,Freelance Editor,jordan.pm,Terminated
